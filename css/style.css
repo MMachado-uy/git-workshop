@@ -1,0 +1,8 @@
+body {
+  background: #edf0f1;
+  padding: 80px 100px 0 100px;
+}
+
+body, input, button {
+  font-family: 'Roboto', sans-serif;
+}
